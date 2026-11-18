@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://example.com/#person",
+  "name": "Your Name",
+  "url": "https://example.com/",
+  "image": "https://example.com/wp-content/uploads/your-photo.webp",
+  "email": "mailto:info@example.com",
+  "jobTitle": "Freelance Web Designer & Local SEO Specialist",
+  "description": "Short description of who you are, what you do and who you work with.",
+  "knowsAbout": [
+    "Website design",
+    "WordPress",
+    "Elementor",
+    "Local SEO",
+    "Google Business Profile"
+  ],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "degree",
+    "name": "Your Degree"
+  },
+  "homeLocation": {
+    "@type": "Place",
+    "name": "City, Country"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/yourprofile/",
+    "https://github.com/yourusername",
+    "https://www.behance.net/yourprofile"
+  ]
+}
