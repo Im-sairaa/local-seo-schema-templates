@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Question 1 exactly as it appears on the page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer 1 exactly as it appears on the page."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Question 2 exactly as it appears on the page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer 2 exactly as it appears on the page."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Question 3 exactly as it appears on the page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Answer 3 exactly as it appears on the page."
+      }
+    }
+  ]
+}
